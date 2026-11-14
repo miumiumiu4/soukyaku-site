@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yoyaku.arigatouosouji.com/sitemap.xml
